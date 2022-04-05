@@ -1,0 +1,14 @@
+/*
+LCP is affected due to these factors : 
+Slow server response times
+Render-blocking JavaScript and CSS
+Resource load times
+Client-side rendering
+*/
+/* For a deep dive on how to improve LCP, see Optimize LCP. For additional guidance on individual performance techniques that can also improve LCP, see:
+1. Apply instant loading with the PRPL pattern
+2. Optimizing the Critical Rendering Path
+3. Optimize your CSS
+4. Optimize your Images
+5. Optimize web Fonts
+6. Optimize your JavaScript (for client-rendered sites)
